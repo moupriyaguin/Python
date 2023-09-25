@@ -3,12 +3,12 @@
 # y = int(input("Enter the value of y:"))
 # print("The sum is",x+y)
 # for i in range(0,10):
-#     print("Lucky ChUTIYA")
+#     print("hii")
 # while(0):
-#     print("Ayu L Mou")
+#     print("trinity")
 # for i in range(1,10):
 #     print(i)
-str = "Moupriya Ayush"
+str = "trinity"
 # for i in str:
 #     if i==' ':
 #         continue
